@@ -4,7 +4,7 @@ I created this Expense Tracker software as a learning project to deepen my under
 
 The purpose of this software is to allow users to input, view, and analyze their daily expenses. It provides a user-friendly command-line interface for easy interaction, making it a practical tool for anyone who wants to track their spending habits.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/06Sv0HbkKe4)
 
 # Development Environment
 
